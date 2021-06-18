@@ -112,9 +112,6 @@ The first rule makes each `div.PLACESSpace` expand to the width of its grid cell
 
 The second rule sets the width `img` tags within the `div.PLACESSpace` to 100% of the available space. With this, the images match the width of their container. The second property here `height: auto` makes images maintain their aspect ratio as they scale.
 
-The page should look something like this at this point, if you used our sample styles above:
-
-![Places Styled](assets/spaces-styled.png)
 
 # Making New Components
 
