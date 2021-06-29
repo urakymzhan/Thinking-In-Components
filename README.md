@@ -36,7 +36,6 @@ Add a new stylesheet.
 /* src/PLACESList.css */
 
 .PLACESList {
-  width: calc(100% - 80px);
   margin: auto;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
